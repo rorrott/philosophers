@@ -12,9 +12,9 @@ This project introduces students to multithreading, synchronization, and concurr
 
 - Each philosopher:
 
-- -Thinks 
+- - Thinks 
 
-- -Takes two forks 
+- - Takes two forks 
 
 - - Eats 
 
